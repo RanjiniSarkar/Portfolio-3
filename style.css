@@ -1,0 +1,28 @@
+h1{ 
+    color:aqua
+}
+
+.header{
+background-color: #800090;
+display: flex
+
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+}
+.item{
+    background-color: cadetblue;
+}
+body{
+    background-color: #005080;
+}
+
